@@ -7,6 +7,7 @@ $username = $_POST['username'];
 $email = $_POST['email'];
 $content = $_POST['content'];
 
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
